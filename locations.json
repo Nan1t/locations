@@ -1,0 +1,114 @@
+[
+  {
+    "id": 0,
+    "name": "Germany_1",
+    "type": "ovpn",
+    "paid": false,
+    "country": "de",
+    "ip": "51.75.145.220",
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-de220-tcp80.ovpn",
+    "credentials": {
+      "type": "remote",
+      "url": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/credentials.json"
+    }
+  },
+  {
+    "id": 1,
+    "name": "France_1",
+    "type": "ovpn",
+    "paid": false,
+    "country": "fr",
+    "ip": "5.196.64.231",
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-fr231-tcp80.ovpn",
+    "credentials": {
+      "type": "remote",
+      "url": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/credentials.json"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Poland_1",
+    "type": "ovpn",
+    "paid": false,
+    "country": "pl",
+    "ip": "54.36.174.140",
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-pl140-tcp80.ovpn",
+    "credentials": {
+      "type": "remote",
+      "url": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/credentials.json"
+    }
+  },
+  {
+    "id": 3,
+    "name": "UnitedKingdom_1",
+    "type": "ovpn",
+    "paid": false,
+    "country": "gb",
+    "ip": "145.239.255.68",
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-uk68-tcp80.ovpn",
+    "credentials": {
+      "type": "remote",
+      "url": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/credentials.json"
+    }
+  },
+  {
+    "id": 100,
+    "name": "Poland_2",
+    "type": "ovpn",
+    "paid": true,
+    "country": "pl",
+    "ip": "57.128.226.85",
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/premium/pl_1.ovpn",
+    "credentials": {
+      "type": "premium"
+    }
+  },
+  {
+    "id": 101,
+    "name": "UnitedKingdom_2",
+    "type": "ovpn",
+    "paid": true,
+    "country": "gb",
+    "ip": "198.244.189.91",
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/premium/uk_1.ovpn",
+    "credentials": {
+      "type": "premium"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Germany_2",
+    "type": "ovpn",
+    "paid": true,
+    "country": "de",
+    "ip": "57.129.69.58",
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/premium/de_1.ovpn",
+    "credentials": {
+      "type": "premium"
+    }
+  },
+  {
+    "id": 103,
+    "name": "France_2",
+    "type": "ovpn",
+    "paid": true,
+    "country": "fr",
+    "ip": "79.137.37.153",
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/premium/fr_1.ovpn",
+    "credentials": {
+      "type": "premium"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Canada_1",
+    "type": "ovpn",
+    "paid": true,
+    "country": "ca",
+    "ip": "66.70.191.198",
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/premium/ca_1.ovpn",
+    "credentials": {
+      "type": "premium"
+    }
+  }
+]
