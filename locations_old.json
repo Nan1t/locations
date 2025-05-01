@@ -3,11 +3,11 @@
     "id": 0,
     "type": "ovpn",
     "paid": false,
-    "country": "ca",
-    "city": " Vaudreuil-Dorion",
-    "ip": "144.217.253.149",
-    "port": 443,
-    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-ca149-tcp443.ovpn",
+    "country": "de",
+    "city": "Frankfurt am Main",
+    "ip": "51.75.145.220",
+    "port": 80,
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-de220-tcp80.ovpn",
     "credentials": {
       "type": "remote",
       "url": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/credentials.json"
@@ -17,11 +17,11 @@
     "id": 1,
     "type": "ovpn",
     "paid": false,
-    "country": "de",
-    "city": " Frankfurt am Main",
-    "ip": "51.75.145.20",
-    "port": 443,
-    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-de20-tcp443.ovpn",
+    "country": "fr",
+    "city": "Conty",
+    "ip": "5.196.64.231",
+    "port": 80,
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-fr231-tcp80.ovpn",
     "credentials": {
       "type": "remote",
       "url": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/credentials.json"
@@ -31,11 +31,11 @@
     "id": 2,
     "type": "ovpn",
     "paid": false,
-    "country": "fr",
-    "city": "Calais",
-    "ip": "5.196.64.200",
-    "port": 443,
-    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-fr200-tcp443.ovpn",
+    "country": "pl",
+    "city": "Warsaw",
+    "ip": "54.36.174.140",
+    "port": 80,
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-pl140-tcp80.ovpn",
     "credentials": {
       "type": "remote",
       "url": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/credentials.json"
@@ -47,23 +47,9 @@
     "paid": false,
     "country": "gb",
     "city": "London",
-    "ip": "145.239.252.205",
-    "port": 443,
-    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-uk205-tcp443.ovpn",
-    "credentials": {
-      "type": "remote",
-      "url": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/credentials.json"
-    }
-  },
-  {
-    "id": 4,
-    "type": "ovpn",
-    "paid": false,
-    "country": "pl",
-    "city": "Warsaw",
-    "ip": "54.36.174.134",
-    "port": 443,
-    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-pl134-tcp443.ovpn",
+    "ip": "145.239.255.68",
+    "port": 80,
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-uk68-tcp80.ovpn",
     "credentials": {
       "type": "remote",
       "url": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/credentials.json"
