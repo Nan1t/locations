@@ -6,7 +6,6 @@
     "country": "ca",
     "city": "Vaudreuil-Dorion",
     "ip": "144.217.253.149",
-    "port": 443,
     "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-ca149-udp25000.ovpn",
     "credentials": {
       "type": "remote",
@@ -20,7 +19,6 @@
     "country": "de",
     "city": "Frankfurt am Main",
     "ip": "51.75.145.20",
-    "port": 443,
     "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-de20-udp25000.ovpn",
     "credentials": {
       "type": "remote",
@@ -34,7 +32,6 @@
     "country": "fr",
     "city": "Calais",
     "ip": "5.196.64.200",
-    "port": 443,
     "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-fr200-udp25000.ovpn",
     "credentials": {
       "type": "remote",
@@ -48,7 +45,6 @@
     "country": "gb",
     "city": "London",
     "ip": "145.239.252.205",
-    "port": 443,
     "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-uk205-udp25000.ovpn",
     "credentials": {
       "type": "remote",
@@ -62,7 +58,6 @@
     "country": "pl",
     "city": "Warsaw",
     "ip": "54.36.174.134",
-    "port": 443,
     "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-pl134-udp25000.ovpn",
     "credentials": {
       "type": "remote",
@@ -76,7 +71,6 @@
     "country": "pl",
     "city": "Warsaw",
     "ip": "57.128.226.85",
-    "port": 22,
     "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/premium/pl_1.ovpn",
     "credentials": {
       "type": "premium"
@@ -89,7 +83,6 @@
     "country": "gb",
     "city": "Bexley",
     "ip": "198.244.189.91",
-    "port": 22,
     "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/premium/uk_1.ovpn",
     "credentials": {
       "type": "premium"
@@ -102,7 +95,6 @@
     "country": "de",
     "city": "Frankfurt am Main",
     "ip": "57.129.69.58",
-    "port": 22,
     "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/premium/de_1.ovpn",
     "credentials": {
       "type": "premium"
@@ -115,7 +107,6 @@
     "country": "fr",
     "city": "Strasbourg",
     "ip": "79.137.37.153",
-    "port": 22,
     "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/premium/fr_1.ovpn",
     "credentials": {
       "type": "premium"
@@ -128,7 +119,6 @@
     "country": "ca",
     "city": "Montréal",
     "ip": "66.70.191.198",
-    "port": 22,
     "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/premium/ca_1.ovpn",
     "credentials": {
       "type": "premium"
