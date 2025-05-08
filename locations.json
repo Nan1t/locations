@@ -70,20 +70,6 @@
     }
   },
   {
-    "id": 5,
-    "type": "ovpn",
-    "paid": false,
-    "country": "us",
-    "city": "Portland",
-    "ip": "147.135.37.178",
-    "port": 443,
-    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-us178-udp25000.ovpn",
-    "credentials": {
-      "type": "remote",
-      "url": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/credentials.json"
-    }
-  },
-  {
     "id": 100,
     "type": "ovpn",
     "paid": true,
