@@ -63,7 +63,7 @@
     "city": "Warsaw",
     "ip": "54.36.174.134",
     "port": 443,
-    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-uk205-udp25000.ovpn",
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/vpnbook-pl134-udp25000.ovpn",
     "credentials": {
       "type": "remote",
       "url": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/free/credentials.json"
