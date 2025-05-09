@@ -123,5 +123,29 @@
     "credentials": {
       "type": "premium"
     }
+  },
+  {
+    "id": 105,
+    "type": "ovpn",
+    "paid": true,
+    "country": "nl",
+    "city": "Dronten",
+    "ip": "31.42.189.76",
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/premium/nl_1.ovpn",
+    "credentials": {
+      "type": "premium"
+    }
+  },
+  {
+    "id": 105,
+    "type": "ovpn",
+    "paid": true,
+    "country": "ua",
+    "city": "Kyiv",
+    "ip": "185.143.145.123",
+    "configUrl": "https://raw.githubusercontent.com/Nan1t/locations/refs/heads/main/premium/ua_1.ovpn",
+    "credentials": {
+      "type": "premium"
+    }
   }
 ]
