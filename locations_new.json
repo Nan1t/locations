@@ -1,5 +1,17 @@
 [
   {
+    "id": 105,
+    "type": "outline",
+    "paid": false,
+    "country": "nl",
+    "city": "Dronten",
+    "ip": "31.42.189.76",
+    "credentials": {
+      "type": "outline",
+      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cEM5aER1SkxSUkE2dmpuR2hQSmZK@31.42.189.76:62802/?outline=1"
+    }
+  },
+  {
     "id": 100,
     "type": "outline",
     "paid": false,
@@ -31,8 +43,7 @@
     "city": "Frankfurt am Main",
     "ip": "57.129.69.58",
     "credentials": {
-      "type": "outline",
-      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRS2I3SlRCZmRDQXdKRGtZaU43VGtV@57.129.69.58:33198/?outline=1"
+      "type": "premium"
     }
   },
   {
@@ -43,8 +54,7 @@
     "city": "Strasbourg",
     "ip": "79.137.37.153",
     "credentials": {
-      "type": "outline",
-      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6dERuVHJwVXNWYWJmTGsxS084dWdy@79.137.37.153:24146/?outline=1"
+      "type": "premium"
     }
   },
   {
@@ -55,20 +65,7 @@
     "city": "Montréal",
     "ip": "66.70.191.198",
     "credentials": {
-      "type": "outline",
-      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuRG9BZENubHJ2NXJwNnl2VGRHSXZi@66.70.191.198:56835/?outline=1"
-    }
-  },
-  {
-    "id": 105,
-    "type": "outline",
-    "paid": false,
-    "country": "nl",
-    "city": "Dronten",
-    "ip": "31.42.189.76",
-    "credentials": {
-      "type": "outline",
-      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cEM5aER1SkxSUkE2dmpuR2hQSmZK@31.42.189.76:62802/?outline=1"
+      "type": "premium"
     }
   },
   {
@@ -79,8 +76,7 @@
     "city": "Kyiv",
     "ip": "185.143.145.123",
     "credentials": {
-      "type": "outline",
-      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpybVN4ZVhmc3IzN1VKRGpxTW1Wbkk1@185.143.145.123:59608/?outline=1"
+      "type": "premium"
     }
   }
 ]
