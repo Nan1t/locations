@@ -38,7 +38,7 @@
   {
     "id": 102,
     "type": "outline",
-    "paid": false,
+    "paid": true,
     "country": "de",
     "city": "Frankfurt am Main",
     "ip": "57.129.69.58",
@@ -49,7 +49,7 @@
   {
     "id": 103,
     "type": "outline",
-    "paid": false,
+    "paid": true,
     "country": "fr",
     "city": "Strasbourg",
     "ip": "79.137.37.153",
@@ -60,7 +60,7 @@
   {
     "id": 104,
     "type": "outline",
-    "paid": false,
+    "paid": true,
     "country": "ca",
     "city": "Montréal",
     "ip": "66.70.191.198",
@@ -71,7 +71,7 @@
   {
     "id": 106,
     "type": "outline",
-    "paid": false,
+    "paid": true,
     "country": "ua",
     "city": "Kyiv",
     "ip": "185.143.145.123",
