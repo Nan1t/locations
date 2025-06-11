@@ -2,7 +2,7 @@
   {
     "id": 100,
     "type": "outline",
-    "paid": true,
+    "paid": false,
     "country": "pl",
     "city": "Warsaw",
     "ip": "57.128.226.85",
@@ -14,7 +14,7 @@
   {
     "id": 101,
     "type": "outline",
-    "paid": true,
+    "paid": false,
     "country": "gb",
     "city": "Bexley",
     "ip": "198.244.189.91",
@@ -26,7 +26,7 @@
   {
     "id": 102,
     "type": "outline",
-    "paid": true,
+    "paid": false,
     "country": "de",
     "city": "Frankfurt am Main",
     "ip": "57.129.69.58",
@@ -38,7 +38,7 @@
   {
     "id": 103,
     "type": "outline",
-    "paid": true,
+    "paid": false,
     "country": "fr",
     "city": "Strasbourg",
     "ip": "79.137.37.153",
@@ -50,7 +50,7 @@
   {
     "id": 104,
     "type": "outline",
-    "paid": true,
+    "paid": false,
     "country": "ca",
     "city": "Montréal",
     "ip": "66.70.191.198",
@@ -62,7 +62,7 @@
   {
     "id": 105,
     "type": "outline",
-    "paid": true,
+    "paid": false,
     "country": "nl",
     "city": "Dronten",
     "ip": "31.42.189.76",
@@ -74,7 +74,7 @@
   {
     "id": 106,
     "type": "outline",
-    "paid": true,
+    "paid": false,
     "country": "ua",
     "city": "Kyiv",
     "ip": "185.143.145.123",
