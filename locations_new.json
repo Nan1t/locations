@@ -69,28 +69,6 @@
     }
   },
   {
-    "id": 150,
-    "type": "outline",
-    "paid": true,
-    "country": "in",
-    "city": "Mumbai",
-    "ip": "148.113.46.235",
-    "credentials": {
-      "type": "premium"
-    }
-  },
-  {
-    "id": 160,
-    "type": "outline",
-    "paid": true,
-    "country": "nl",
-    "city": "Dronten",
-    "ip": "31.42.189.76",
-    "credentials": {
-      "type": "premium"
-    }
-  },
-  {
     "id": 170,
     "type": "outline",
     "paid": true,
