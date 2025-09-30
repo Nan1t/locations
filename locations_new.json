@@ -47,18 +47,6 @@
     }
   },
   {
-    "id": 121,
-    "type": "outline",
-    "paid": false,
-    "country": "de",
-    "city": "Frankfurt (port 443)",
-    "ip": "57.129.69.58",
-    "credentials": {
-      "type": "outline",
-      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEYUdMV2k4bmt6OWNwTGxvTjgxTGVG@57.129.69.58:443/?outline=1"
-    }
-  },
-  {
     "id": 130,
     "type": "outline",
     "paid": true,
